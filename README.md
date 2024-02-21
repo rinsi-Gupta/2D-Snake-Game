@@ -1,0 +1,1 @@
+The grid representation of the game board can be achieved using a 2D array, where each cell denotes a unit of the snake's body, food, or empty space. Arrays facilitate easy manipulation of the game board, enabling efficient traversal and updates during gameplay.
